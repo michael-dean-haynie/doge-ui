@@ -1,4 +1,4 @@
 /* PrimeNG Styles*/
-@import url("/node_modules/primeicons/primeicons.css");
-@import url("/node_modules/primeng/resources/themes/omega/theme.css");
-@import url("text/css" href="/node_modules/primeng/resources/primeng.min.css");
+@import url("../node_modules/primeicons/primeicons.css");
+@import url("../node_modules/primeng/resources/themes/omega/theme.css");
+@import url("../node_modules/primeng/resources/primeng.min.css");
